@@ -12,6 +12,10 @@
 
 This data analysis project aims to provide insights into thesales perfomance of an e-commerce company. By analyzing various aspects of the sales data, we seek to identify trends and gain a deeper understandingg of the company's perfomance.
 
+![Screenshot (82)](https://github.com/Alfiya-PS/Sales-Data-Analysis/assets/169554579/aec25c6d-1b6c-43f0-a2a3-7df57d37bcbc)
+
+![Screenshot (84)](https://github.com/Alfiya-PS/Sales-Data-Analysis/assets/169554579/1dea54d9-b37c-4d1d-b5bb-23a4b6b7e466)
+
 ### Data Sources
  Sales Data: The primary dataset used for this analysis is the"ECOMM DATA.xlxs" file, containing detailed information about each sale by the company.
 
